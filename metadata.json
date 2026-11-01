@@ -1,0 +1,6 @@
+{
+  "name": "Bara Katta (బారాకట్ట) - Traditional Board Game",
+  "description": "Authentic Telugu cross-and-circle strategy board game with cowrie shells (gavvalu), verandah chalk aesthetic, smart bots, and village folklore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
